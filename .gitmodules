@@ -1,0 +1,3 @@
+[submodule "ClientApp/src/angular-framework"]
+	path = ClientApp/src/angular-framework
+	url = https://github.com/sltcestloic/angular-framework.git

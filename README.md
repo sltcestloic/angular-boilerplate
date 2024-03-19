@@ -1,3 +1,3 @@
-# Angular boilerplate
+# angular-boilerplate
 
 Boilerplate for my Angular projects
